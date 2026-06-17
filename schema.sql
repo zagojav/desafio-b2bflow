@@ -11,5 +11,5 @@ create table if not exists contatos (
 -- Contatos de exemplo. Troque pelos seus números de teste.
 -- Telefone no formato só dígitos, com DDI: 55 + DDD + número.
 insert into contatos (nome, telefone) values
-    ('Marcelo', '5511999999999'),
-    ('Zago',    '5511888888888');
+    ('Guilherme', '5511949844171'),
+    ('Zago',    '55119127500771');
